@@ -35,5 +35,9 @@
 public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello, niranjan");
+    System.out.println("Hello, niranjan");
+    System.out.println("Hello, niranjan");
+    System.out.println("Hello, niranjan");
+    System.out.println("Hello, niranjan");
   }
 }
